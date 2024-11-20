@@ -76,3 +76,8 @@ Follow these steps to set up Swagger in your .NET 9 application:
    dotnet run
    ```
 5. **Access Swagger UI:** Once your application is running, navigate to `http://localhost:5002/swagger` to see the Swagger UI.
+
+## Author
+
+- website: [Menayer.com](https://www.menayer.com)
+- e-mail: <menayer@outlook.com>
