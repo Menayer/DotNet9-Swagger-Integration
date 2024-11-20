@@ -1,0 +1,6 @@
+@DotNet9_Swagger_Integration_HostAddress = http://localhost:5002
+
+GET {{DotNet9_Swagger_Integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
