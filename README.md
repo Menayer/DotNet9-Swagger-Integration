@@ -80,4 +80,4 @@ Follow these steps to set up Swagger in your .NET 9 application:
 ## Author
 
 - website: [Menayer.com](https://www.menayer.com)
-- e-mail: <menayer@outlook.com>
+- e-mail: <Amr@menayer.com>
