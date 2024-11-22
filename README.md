@@ -75,7 +75,7 @@ Follow these steps to set up Swagger in your .NET 9 application:
    ```
    dotnet run
    ```
-5. **Access Swagger UI:** Once your application is running, navigate to `http://localhost:5002/swagger` to see the Swagger UI.
+5. **Access Swagger UI:** Once your application is running, navigate to `http://localhost:<port>/swagger` to see the Swagger UI.
 
 ## Author
 
